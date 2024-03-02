@@ -6,9 +6,7 @@ Completed HTML CSS , and had a decent knowledgge of DSA.
 
 📫 How to reach me saxenaayush381@gmail.com
 
-Connect with me: 
-ayush-saxena-b71143220 saxenaayush381
-
+Connect with me: ayush-saxena-b71143220 saxenaayush381
 
 <!--
 **Ayushsaxena0227/Ayushsaxena0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
