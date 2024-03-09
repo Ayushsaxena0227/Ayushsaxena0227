@@ -1,8 +1,8 @@
 Hi 👋, I'm Ayush Saxena
 
-Completed HTML CSS , and had a decent knowledgge of DSA.
+Completed HTML ,CSS , JS and had a decent knowledgge of DSA.
 
-🌱 I’m currently learning js , building projects to gain experience and enhance my knowledge
+🌱 I’m currently learning Reactjs , building projects to gain experience and enhance my knowledge
 
 📫 How to reach me saxenaayush381@gmail.com
 
