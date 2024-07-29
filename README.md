@@ -1,12 +1,21 @@
 Hi 👋, I'm Ayush Saxena
 
-Completed HTML ,CSS , JS , React and had a decent knowledgge of DSA.
+Have Hands On MERN, build Some Decent Projects with it. and also have a decent knowledge of DSA.
 
-🌱 I’m currently learning Nodejs , building projects to gain experience and enhance my knowledge
+Exploring AI/ML
+
+🌱Currently Working On A Project with Foregin Mates at Codecademy.
 
 📫 How to reach me saxenaayush381@gmail.com
 
-Connect with me: ayush-saxena-b71143220 saxenaayush381
+Connect with me: www.linkedin.com/in/
+ayush-saxena-b71143220
+
+Leetcode: 
+https://leetcode.com/saxenaayush381/ 
+
+Twitter:
+https://x.com/saxenahere0227
 
 <!--
 **Ayushsaxena0227/Ayushsaxena0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
