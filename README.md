@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN stack dev
 --------------
 
-I am a dedicated and skilled MERN stack developer with a strong foundation in both front-end and back-end technologies. As a team lead during my SDE internship, I successfully led the development of an IPO web application and REST APIs, demonstrating my ability to manage projects and collaborate effectively with a team. My experience extends to working with an international community through Codecommunity, where I have collaborated with developers worldwide on various projects, enhancing my teamwork and communication skills. I have maintained an impressive 8.5+ CGPA throughout my academic career, showcasing my commitment to excellence and continuous learning. In addition to my academic and professional achievements, I am an active problem solver on LeetCode, with over 200 problems solved, reflecting my strong analytical and problem-solving abilities.
+I am a dedicated and skilled MERN stack developer with a strong foundation in both front-end and back-end technologies. As a team lead during my SDE internship, I successfully led the development of an IPO web application and REST APIs, demonstrating my ability to manage projects and collaborate effectively with a team. My experience extends to working with an international community through Codecommunity, where I have collaborated with developers worldwide on various projects, enhancing my teamwork and communication skills. I have maintained an impressive 8.5+ CGPA throughout my academic career, showcasing my commitment to excellence and continuous learning. In addition to my academic and professional achievements, I am an active problem solver on LeetCode, with over 250+ problems solved, reflecting my strong analytical and problem-solving abilities.
 
 * ✉️  You can contact me at [saxenaayush381@gmail.com](mailto:saxenaayush381@gmail.com)
-* 🧠  I'm learning Django , django rest framework
+* 🧠  I'm making Projects in Next.js
 * 🤝  I'm open to collaborating on Full stack projects
 
 ### Skills
