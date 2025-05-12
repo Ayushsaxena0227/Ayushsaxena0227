@@ -1,14 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush saxena
 ====================================================================================================================================
 
-MERN stack dev
---------------
+I’m a dedicated MERN stack developer with hands-on experience in building full-stack web apps using React, Node.js, Express, and MongoDB. Currently interning at CMV Technologies, where I work on core features, APIs, and UI/UX for the EMS platform. I’ve previously built secure REST APIs at Bluestock Fintech and developed projects like AI-Mock-Interview, StoreIt, and LiveDocs—focusing on performance, security, and user experience.
+I'm an active problem solver with 200+ problems solved on LeetCode, and I maintain a strong academic record (8.8 CGPA). I’m always up for collaboration, freelancing, and learning something new every day.
 
-I am a dedicated and skilled MERN stack developer with a strong foundation in both front-end and back-end technologies. As a team lead during my SDE internship, I successfully led the development of an IPO web application and REST APIs, demonstrating my ability to manage projects and collaborate effectively with a team. My experience extends to working with an international community through Codecommunity, where I have collaborated with developers worldwide on various projects, enhancing my teamwork and communication skills. I have maintained an impressive 8.5+ CGPA throughout my academic career, showcasing my commitment to excellence and continuous learning. In addition to my academic and professional achievements, I am an active problem solver on LeetCode, with over 250+ problems solved, reflecting my strong analytical and problem-solving abilities.
+✉️ saxenaayush381@gmail.com
 
-* ✉️  You can contact me at [saxenaayush381@gmail.com](mailto:saxenaayush381@gmail.com)
-* 🧠  I Code daily, and learn.
-* 🤝 Collaboration, Freelancing is Welcomed.
+🌐 Portfolio
+
+🧠 I code daily & learn continuously
+
+🤝 Open to collaboration & freelance work
 
 ### Skills
 
