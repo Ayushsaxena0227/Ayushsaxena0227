@@ -6,8 +6,6 @@ I'm an active problem solver with 200+ problems solved on LeetCode, and I mainta
 
 ✉️ saxenaayush381@gmail.com
 
-🌐 Portfolio
-
 🧠 I code daily & learn continuously
 
 🤝 Open to collaboration & freelance work
