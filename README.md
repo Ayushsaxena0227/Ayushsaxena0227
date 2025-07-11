@@ -1,15 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush saxena
 ====================================================================================================================================
+I'm a Full Stack Developer building scalable and user-centric web applications. Currently interning at CMV Technologies, I contribute to the EMS platform by developing core features, designing RESTful APIs, and refining UI/UX using React, TypeScript, and TailwindCSS.
+Working closely with a fast-paced startup environment, I handle both frontend and backend responsibilities — integrating APIs, engineering robust admin panels, and delivering production-ready features end-to-end
 
-I’m a dedicated MERN stack developer with hands-on experience in building full-stack web apps using React, Node.js, Express, and MongoDB. Currently interning at CMV Technologies, where I work on core features, APIs, and UI/UX for the EMS platform. I’ve previously built secure REST APIs at Bluestock Fintech and developed projects like AI-Mock-Interview, StoreIt, and LiveDocs—focusing on performance, security, and user experience.
-I'm an active problem solver with 200+ problems solved on LeetCode, and I maintain a strong academic record (8.8 CGPA). I’m always up for collaboration, freelancing, and learning something new every day.
-
-✉️ saxenaayush381@gmail.com
-
-🧠 I code daily & learn continuously
-
-🤝 Open to collaboration & freelance work
-
+I’ve independently led full-stack projects like AI-Mock-Interview, StoreIt, and LiveDocs — integrating tools like Google Gemini AI, Firebase, Clerk, and ShadCN to build responsive, real-time platforms with an emphasis on performance, privacy, and seamless user experience. With over 300+ problems solved on LeetCode and Codeshef and a strong academic record (8.8 CGPA).
 ### Skills
 
 
