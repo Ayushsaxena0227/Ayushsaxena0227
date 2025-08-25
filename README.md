@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushsaxena0227" alt="ayushsaxena0227" /></a> </p>
 
-- 🔭 I’m currently working on **Nearhelp**
+- 🔭 I’m currently working on **Nearhelp, codecircle(collaborative coding )**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
