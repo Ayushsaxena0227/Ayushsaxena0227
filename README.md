@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Nearhelp, codecircle(collaborative coding )**
 
-- 👯 I’m looking to collaborate on **Full stack projects**
+- 👯 I’m looking for Software Developer Role*
 
 - 👨‍💻 All of my projects are available at [https://portfolio-2-coral-beta.vercel.app/](https://portfolio-2-coral-beta.vercel.app/)
 
