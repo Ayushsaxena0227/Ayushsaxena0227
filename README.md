@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **javascript, React, Firebase, Databases, I Teach at Dailyprep checkout https://dailyprep-wfb3.vercel.app/**
 
-- 📫 How to reach me **saxenaayush381@gmail.com**
+- 📫 How to reach me **saxenaayush381@gmail.com, 7906602234**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OTUaqdVZOCtESy8ZLbIEr3sGAFfeJ9Xg/view?usp=sharing](https://drive.google.com/file/d/1OTUaqdVZOCtESy8ZLbIEr3sGAFfeJ9Xg/view?usp=sharing)
 
