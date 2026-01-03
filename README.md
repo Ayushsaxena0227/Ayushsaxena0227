@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushsaxena0227" alt="ayushsaxena0227" /></a> </p>
 
-- 🔭 I read software Engeenering Principles Everyday **
+- 🔭 I read and Practice software engineering Principles Everyday **
 
 - 👯 I’m looking for full time Software Developer Role*
 
