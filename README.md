@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushsaxena0227" alt="ayushsaxena0227" /></a> </p>
 
-- 🔭 I’m currently working on **Nearhelp, codecircle(collaborative coding )**
+- 🔭 I read software Engeenering Principles Everyday **
 
-- 👯 I’m looking for Software Developer Role*
+- 👯 I’m looking for full time Software Developer Role*
 
 - 👨‍💻 All of my projects are available at [https://portfolio-2-coral-beta.vercel.app/](https://portfolio-2-coral-beta.vercel.app/)
 
-- 💬 Ask me about **javascript, React, Firebase, Databases, I Teach at Dailyprep checkout https://dailyprep-wfb3.vercel.app/**
+- 💬 Ask me about **javascript, React, nodejs, Databases, I developed Dailyprep checkout https://dailyprep-wfb3.vercel.app/**
 
 - 📫 How to reach me **saxenaayush381@gmail.com, 7906602234**
 
