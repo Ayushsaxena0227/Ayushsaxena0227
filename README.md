@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush saxena</h1>
-<h3 align="center">SDE intern At Edtech Startup EMS,Noida</h3>
+<h3 align="center">SDE At Edtech Startup EMS(CMV technologies pvt.ltd),Noida</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsaxena0227&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsaxena0227" /> </p>
 
