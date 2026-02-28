@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush saxena</h1>
-<h3 align="center">SDE At Edtech Startup EMS(CMV technologies pvt.ltd),Noida</h3>
+<h3 align="center">ex SDE At Edtech Startup EMS(CMV technologies pvt.ltd),Noida</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsaxena0227&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsaxena0227" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **saxenaayush381@gmail.com, 7906602234**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OTUaqdVZOCtESy8ZLbIEr3sGAFfeJ9Xg/view?usp=sharing](https://drive.google.com/file/d/1OTUaqdVZOCtESy8ZLbIEr3sGAFfeJ9Xg/view?usp=sharing)
+- 📄 Know about my experiences -> https://drive.google.com/file/d/1OTUaqdVZOCtESy8ZLbIEr3sGAFfeJ9Xg/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
