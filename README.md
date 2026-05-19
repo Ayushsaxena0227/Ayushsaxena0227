@@ -1,34 +1,133 @@
-<h1 align="center">Hi 👋, I'm Ayush saxena</h1>
-<h3 align="center">Full Stack Engineer @VertexBuddy</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsaxena0227&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsaxena0227" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=34&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ayush+Saxena;Full+Stack+Engineer+@+VertexBuddy;Building+Scalable+AI+Driven+Platforms;React+•+Node.js+•+MongoDB+•+Firebase" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushsaxena0227" alt="ayushsaxena0227" /></a> </p>
+</div>
 
-- 🔭 I read and Practice software engineering Principles Everyday **
+---
 
-- 👯 I’m looking for full time Software Developer Role*
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://portfolio-2-coral-beta.vercel.app/](https://portfolio-2-coral-beta.vercel.app/)
+### 🚀 Full Stack Engineer | AI Enthusiast | System Design Learner
 
-- 💬 Ask me about **javascript, React, nodejs, Databases, I developed Dailyprep checkout https://dailyprep-wfb3.vercel.app/**
+Building modern web applications with scalable backend systems, AI integrations, and production-grade UI experiences.
 
-- 📫 How to reach me **saxenaayush381@gmail.com, 7906602234**
+</div>
 
-- 📄 Know about my experiences -> https://drive.google.com/file/d/1mX1n6SMDpk7h13OKa_Ltar1uuNbUdYns/view?usp=sharing
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush saxena" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayush0227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush0227" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayush saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush saxena" height="30" width="40" /></a>
-</p>
+## 🌟 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🔭 Currently building enterprise hiring infrastructure at **VertexBuddy**
+- ⚡ Passionate about **Full Stack Engineering & System Design**
+- 🧠 Learning software engineering principles daily
+- 👨‍💻 Love building scalable AI-powered products
+- 💼 Looking for **Full-Time Software Developer Roles**
+- 🚀 Creator of **DailyPrep** — Interview prep platform with daily questions & audio explanations
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsaxena0227&show_icons=true&locale=en&layout=compact" alt="ayushsaxena0227" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsaxena0227&show_icons=true&locale=en" alt="ayushsaxena0227" /></p>
+## 🔥 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsaxena0227&" alt="ayushsaxena0227" /></p>
+### 💼 VertexBuddy
+AI-powered hiring & recruitment ecosystem with:
+- Resume parsing
+- AI candidate ranking
+- Vendor management
+- Assessment platform
+- HR dashboards
+- Candidate workflow automation
+
+---
+
+### 📚 DailyPrep
+Practice platform for interview preparation with:
+- Daily coding/interview questions
+- Audio explanations
+- Modern responsive UI
+- Admin analytics dashboard
+
+🔗 https://dailyprep-wfb3.vercel.app/
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase,js,ts,tailwind,cpp,git,github,postman,figma,vscode" />
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushsaxena0227&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsaxena0227&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+## ⚡ Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ayushsaxena0227&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+## 🧠 Currently Exploring
+
+- Distributed Systems
+- Scalable Backend Architectures
+- AI Integrations in SaaS
+- Advanced React Patterns
+- Performance Optimization
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ayush-saxena">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="mailto:saxenaayush381@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
+<a href="https://leetcode.com/">
+  <img src="https://cdn.simpleicons.org/leetcode" height="50" />
+</a>
+
+<a href="https://www.codechef.com/users/ayush0227">
+  <img src="https://cdn.simpleicons.org/codechef" height="50" />
+</a>
+
+</div>
+
+---
+
+## 📄 Resume
+
+🔗 Resume:  
+https://drive.google.com/file/d/1mX1n6SMDpk7h13OKa_Ltar1uuNbUdYns/view?usp=sharing
+
+---
+
+<div align="center">
+
+### 💡 “Consistency compounds into mastery.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer"/>
+
+</div>
