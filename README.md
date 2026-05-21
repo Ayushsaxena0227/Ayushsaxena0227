@@ -1,145 +1,30 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ayush saxena</h1>
+<h3 align="center">Full Stack Engineer @VertexBuddy</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=700&size=34&pause=1200&color=6366F1&center=true&vCenter=true&width=900&height=100&lines=Ayush+Saxena;Full+Stack+Engineer+%40+VertexBuddy;Building+Scalable+AI-Driven+Systems" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsaxena0227&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsaxena0227" /> </p>
 
-<h3>Full Stack Engineer • Backend Systems • AI Workflows</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushsaxena0227" alt="ayushsaxena0227" /></a> </p>
 
-<p>
-Building production-grade applications focused on scalability, performance, and real-world problem solving.
+- 👨‍💻 All of my projects are available at [https://portfolio-2-coral-beta.vercel.app/](https://portfolio-2-coral-beta.vercel.app/)
+
+- 💬 Ask me about **javascript, React, nodejs, Databases, I developed Dailyprep checkout https://dailyprep-wfb3.vercel.app/**
+
+- 📫 How to reach me **saxenaayush381@gmail.com, 7906602234**
+
+- 📄 Know about my experiences -> https://drive.google.com/file/d/1mX1n6SMDpk7h13OKa_Ltar1uuNbUdYns/view?usp=sharing
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ayush saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush saxena" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ayush0227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush0227" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayush saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush saxena" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-Production_Apps-61DAFB?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-Fullstack-000000?style=flat-square&logo=next.js" />
-  <img src="https://img.shields.io/badge/Node.js-Backend_Systems-339933?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-Scalable_DB-47A248?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/AWS-Deployment-FF9900?style=flat-square&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=flat-square&logo=nginx" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsaxena0227&show_icons=true&locale=en&layout=compact" alt="ayushsaxena0227" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsaxena0227&show_icons=true&locale=en" alt="ayushsaxena0227" /></p>
 
-# About Me
-
-Currently working as a Full Stack Engineer at VertexBuddy, building scalable hiring infrastructure, AI-assisted workflows, dashboard systems, and backend optimization pipelines.
-
-Focused on building systems that are:
-- scalable
-- performance-oriented
-- production-ready
-- optimized for real users
-
-Interested in:
-- Distributed Systems
-- Backend Scalability
-- AI-integrated SaaS Platforms
-- Performance Engineering
-- System Design
-
----
-
-# Currently Shipping
-
-- AI-integrated hiring workflows
-- Candidate ranking & evaluation systems
-- Backend query optimization for large datasets
-- AWS S3 + Nginx deployment infrastructure
-- Resume parsing & workflow automation
-- Performance optimization & bundle reduction
-- Authentication systems with Google & LinkedIn sign-in
-
----
-
-# Engineering Impact
-
-- Improved page load performance by 25%
-- Reduced backend response time through optimized querying & pagination
-- Built scalable dashboard systems handling large candidate datasets
-- Implemented secure AWS S3 file workflows
-- Configured Nginx reverse proxy for production deployments
-- Optimized bundle size and frontend rendering performance
-
----
-
-# Featured Systems
-
-## VertexBuddy Hiring Infrastructure
-Scalable hiring workflows, recruiter dashboards, AI-assisted candidate evaluation, ranking systems, authentication, and workflow automation.
-
-## DailyPrep
-AI-powered interview preparation platform with asynchronous audio explanations and structured daily learning flows.
-
-🔗 https://dailyprep-wfb3.vercel.app/
-
-## NearHelp
-Hyperlocal community support platform enabling verified local help exchange and skill-sharing.
-
----
-
-# Core Engineering Stack
-
-## Frontend
-React.js • Next.js • TypeScript • Tailwind CSS • Redux • Responsive UI Systems
-
-## Backend
-Node.js • Express.js • MongoDB • Firebase • REST APIs • Authentication Systems
-
-## DevOps & Infrastructure
-AWS (S3) • Linux • Nginx • VPS Deployment • Server Optimization
-
-## Tools
-Git • GitHub • Postman • VS Code • Figma
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ayushsaxena0227&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsaxena0227&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ayushsaxena0227&theme=tokyonight&hide_border=true&border_radius=12" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsaxena0227&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ayush-saxena-b71143220">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:saxenaayush381@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ayushsaxena0227">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/ayush0227">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer"/>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsaxena0227&" alt="ayushsaxena0227" /></p>
