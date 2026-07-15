@@ -11,18 +11,10 @@
 
 ---
 
-### Contribution Activity
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushsaxena0227&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-### Top Languages
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsaxena0227&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="ayushsaxena0227" /></p>
-
+## Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsaxena0227&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
 ---
 
 ## About Me
