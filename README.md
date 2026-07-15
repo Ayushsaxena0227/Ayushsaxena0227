@@ -9,14 +9,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
 </p>
 
----
-
-### Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsaxena0227&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 ## About Me
 
 - Full Stack Engineer with **1.4 year of experience** building production-ready web applications using **React, Next.js, Node.js, MongoDB, TypeScript, and AWS**.
