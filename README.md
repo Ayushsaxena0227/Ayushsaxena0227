@@ -11,11 +11,11 @@
 
 ---
 
-## Top Languages
+### Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsaxena0227&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsaxena0227&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
----
 
 ## About Me
 
