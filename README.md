@@ -13,6 +13,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushsaxena0227&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayushsaxena0227&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ## About Me
