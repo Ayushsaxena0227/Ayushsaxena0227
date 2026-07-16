@@ -9,6 +9,12 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
 </p>
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushsaxena0227&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+</div>
+
 ## About Me
 
 - Full Stack Engineer with **1.4 year of experience** building production-ready web applications using **React, Next.js, Node.js, MongoDB, TypeScript, and AWS**.
